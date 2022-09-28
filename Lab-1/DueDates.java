@@ -23,22 +23,22 @@ public class DueDates {
             switch(labNum){
                 case "1": 
                     LocalDate lab1 = LocalDate.of(2022, Month.SEPTEMBER, 28);
-                   dayDiff = lab1.get(ChronoField.DAY_OF_YEAR) - now.get(ChronoField.DAY_OF_YEAR); 
+                    dayDiff = lab1.get(ChronoField.DAY_OF_YEAR) - now.get(ChronoField.DAY_OF_YEAR); 
                     System.out.printf("\nLab 1 is: %d days away", dayDiff);
                     break;
                 case "2": 
                     LocalDate lab2 = LocalDate.of(2022, Month.OCTOBER, 26);
-                   dayDiff = lab2.get(ChronoField.DAY_OF_YEAR) - now.get(ChronoField.DAY_OF_YEAR); 
+                    dayDiff = lab2.get(ChronoField.DAY_OF_YEAR) - now.get(ChronoField.DAY_OF_YEAR); 
                     System.out.printf("\nLab 2 is: %d days away", dayDiff);
                     break;
                 case "3": 
                     LocalDate lab3 = LocalDate.of(2022, Month.NOVEMBER, 23);
-                   dayDiff = lab3.get(ChronoField.DAY_OF_YEAR) - now.get(ChronoField.DAY_OF_YEAR); 
+                    dayDiff = lab3.get(ChronoField.DAY_OF_YEAR) - now.get(ChronoField.DAY_OF_YEAR); 
                     System.out.printf("\nLab 3 is: %d days away", dayDiff);
                     break;
                 case "4": 
                     LocalDate lab4 = LocalDate.of(2022, Month.DECEMBER, 07);
-                   dayDiff = lab4.get(ChronoField.DAY_OF_YEAR) - now.get(ChronoField.DAY_OF_YEAR); 
+                    dayDiff = lab4.get(ChronoField.DAY_OF_YEAR) - now.get(ChronoField.DAY_OF_YEAR); 
                     System.out.printf("\nLab 4 is: %d days away", dayDiff);
                     break;
                 default: 
