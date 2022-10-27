@@ -1,0 +1,87 @@
+Script started on Wed Oct 26 18:17:41 2022
+Restored session: Wed Oct 26 18:17:04 EDT 2022
+]7;file://Ramys-MacBook-Pro.local/Users/ramyghoneim/Desktop/3140L2[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://Ramys-MacBook-Pro.local/Users/ramyghoneim/Desktop/3140L2]2;ramyghoneim@Ramys-MacBook-Pro]1;..esktop/3140L2]7;file://Ramys-MacBook-Pro.local/Users/ramyghoneim/Desktop/3140L2[0m[27m[24m[J[01;32m➜  [36m3140L2[00m [K[?1h=[?2004hscript samplerun.log[20Drm[4P[14C    [16Dexit            [12Dmv "~/Downloads/build (3).sh" ./build.sh [9D        [30D[P[17C\ (\3\).sh ./  [33Dcat build.sh                    [20D[12Dls          [10Dmv build\ \(1\).sh build.sh[27D./sample.sh                [16D[11Dnano sample.sh[14D./[3P[9C   [11Dmv build\ \(1\).sh build.sh[27D./sample.sh                [16D[11Dnano sample.sh h[14D./[3P[9C   [11Dmv build\ \(1\).sh build.sh[27Dls                         [25Dcat build.sh[12Dmv ~/Downloads/build\ (\3\).sh . / [31D"~/Downloads/build[2C3).sh" ./ build.sh [41Dexit                                    [36Drm samplerun.log[16Dscript samplerun.log[20D                    [20Dscript samplerun.log[20Drm[4P[14C    [16Dexit            [12Dmv "~/Downloads/build (3).sh" ./build.sh [9D        [30D[P[17C\ (\3\).sh ./  [33Dcat build.sh                    [20D[12Dls          [10Dmv build\ \(1\).sh build.sh[27D./sample.sh                [16D[11Dnano sample.sh [13D./sample.sh  [11Dnano sample.sh[14D./[3P[9C   [11Dchmod u+x sample.sh[19Dscript samplerun.log[20Dcd Desktop/3140L2   [17Dscript samplerun.log[20Dchmod u+x sample.sh [19Dscript samplerun.log[20Dcd Desktop/3140L2   [17Dnano math        [8D[9Dif (($1%2)) -eq 0[17Dnano math        [8D[9Dcd Desktop/3140L2[17Dnano math        [8D[9Dif (($1%2)) -eq 0-[17D[3P[9C        [9D[8D-eq     man -eq-eq    awk -f Downloads/EmailOccurrence.awk Downloads/archive/full.csv[9Ds/full.csv[57D./[28P[10CEmailOccurrence.awk Downloads/archives/full.csv[62D[3P[31C[19P[9C                      [22D[40D[P[P[38C  [42Dcd ~                                      [38Dawk ./archives/EmailOccurrnece.awk/full.csv[39D[P[38C [30D[P[29C [37D[9P[28C         [9D[9D [8C[32Dnano EmailOccurrence.awk        [8D[24Dfind[20C[24Dcd Downloads            [12D[12Dawk -f Downloads/test.awk Downloads/archive/full.csv[52Ddm dmc m, /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-11.jdk/Contents/Home/bin/java -cp /private/var/folders/n3/p3lb9mp93t1_q3gqsjqqsghc0000gn/T/vscodesws_6064a/jdt_ws/jdt.ls-java-project/bin DueDates ..production..academy.learnprogramming[K[A[46D2[K[1B[K[A[11Cjava DueDates 21[11Dc DueDates.java[19Dcd Desktop/CISC-3140/Lab-1[26Dwhere DueDates.java       [13Dd[2Cd[9C[19Dpwd                [16D4  21/bin/bash[9Dbin/bash [8D./sum.[2C 40 19[14Dbin/ba[3C     [8D/bin/bash[9D1        [8D24pwdwhere duedates.java[13DD[2CD[9C[19Dcd Desktop/CISC-3140/Lab-1[26Djavac DueDates.java       [15D[P[9C 1    2[15D2              [14Ddm dmc m, /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-11.jdk/Contents/Home/bin/java -cp /private/var/folders/n3/p3lb9mp93t1_q3gqsjqqsghc0000gn/T/vscodesws_6064a/jdt_ws/jdt.ls-java-project/bin DueDates ..production..academy.learnprogramming[K[A[46Dawk -f Downloads/test.awk Downloads/archive/full.csv[K[1B[K[A[62C[52Dcd[4P[10C                                        [40D[12Dfind EmailOccurrence.awk[24Dnano[20C[24Dawk[P[12Cne[6C full.csv[9D/[8C[28D/archive/EmailOccurrnece.awk/full.csv[29Ds/EmailOccurrnece.awk/full.csv[38D./archives/EmailOccurrnece.awk/full.csv[43Dcd ~                                       [39Dawk Downloads/EmailOccurrence.awk/full.csv[38D./Downloads/EmailOccurrence.awk/full.csv[40D-f ./Downloads/EmailOccurrence.awk Downloads/archives/full.csv[59D[P[P[57C  [10D[P[9C [63D-eq                                                            [60Dman -eq-eq    (($1%2))[8Dif (($1%2)) -eq -0[17Dnano math        [8D[9Dcd Desktop/3140L2[17Dscript samplerun.log[20Dchmod u+x sample.sh [19D./[8P[9C        [8D[11Dnano sample.sh[14D./[3P[9C   [11Dnano sample.sh[14D./[3P[9C   [11Dmv build\ \(1\).sh build.sh[27Dls                         [25Dcat build.sh[12Dmv ~/Downloads/build\ (\3\).sh . / [31D"~/Downloads/build[2C3).sh" ./ build.sh [41Dexit                                    [36Drm samplerun.log[16Dscript samplerun.log[20D                    [20Dscript samplerun.log[20Drm[4P[14C    [16Dexit            [12Dmv "~/Downloads/build (3).sh" ./build.sh [9D        [30D[P[17C\ (\3\).sh ./  [33Dcat build.sh                    [20D[12Dls          [10Dmv build\ \(1\).sh build.sh[27D./sample.sh                [16D[11Dnano sample.sh h [13D./sample.sh  [11Dnano sample.sh[14D./[3P[9C   [11Dchmod u+x sample.sh[19Dscript samplerun.log[20Dchmod u+x sample.sh [19D./[8P[9C        [8D[?1l>[?2004l[1B]2;./sample.sh]1;./sample.shGNU bash, version 3.2.57(1)-release (arm64-apple-darwin21)
+Copyright (C) 2007 Free Software Foundation, Inc.
+./sample.sh: line 2: ./build.sh: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://Ramys-MacBook-Pro.local/Users/ramyghoneim/Desktop/3140L2]2;ramyghoneim@Ramys-MacBook-Pro]1;..esktop/3140L2]7;file://Ramys-MacBook-Pro.local/Users/ramyghoneim/Desktop/3140L2[0m[27m[24m[J[01;31m➜  [36m3140L2[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsbuild (3).sh  input.txt     makefile.txt  [31msample.sh[39;49m[0m     samplerun.log
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://Ramys-MacBook-Pro.local/Users/ramyghoneim/Desktop/3140L2]2;ramyghoneim@Ramys-MacBook-Pro]1;..esktop/3140L2]7;file://Ramys-MacBook-Pro.local/Users/ramyghoneim/Desktop/3140L2[0m[27m[24m[J[01;32m➜  [36m3140L2[00m [K[?1h=[?2004hls./sample.sh[?1l>[?2004l
+]2;./sample.sh]1;./sample.shGNU bash, version 3.2.57(1)-release (arm64-apple-darwin21)
+Copyright (C) 2007 Free Software Foundation, Inc.
+stat: illegal option -- -
+usage: stat [-FLnq] [-f format | -l | -r | -s | -x] [-t timefmt] [file ...]
+stat: illegal option -- -
+usage: stat [-FLnq] [-f format | -l | -r | -s | -x] [-t timefmt] [file ...]
+error: file not found: DueDates.java
+Usage: javac <options> <source files>
+use --help for a list of possible options
+Error: Could not find or load main class DueDates
+Caused by: java.lang.ClassNotFoundException: DueDates
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://Ramys-MacBook-Pro.local/Users/ramyghoneim/Desktop/3140L2]2;ramyghoneim@Ramys-MacBook-Pro]1;..esktop/3140L2]7;file://Ramys-MacBook-Pro.local/Users/ramyghoneim/Desktop/3140L2[0m[27m[24m[J[01;31m➜  [36m3140L2[00m [K[?1h=[?2004h./sample.sh[?1l>[?2004l
+]2;./sample.sh]1;./sample.shGNU bash, version 3.2.57(1)-release (arm64-apple-darwin21)
+Copyright (C) 2007 Free Software Foundation, Inc.
+stat: illegal option -- -
+usage: stat [-FLnq] [-f format | -l | -r | -s | -x] [-t timefmt] [file ...]
+stat: illegal option -- -
+usage: stat [-FLnq] [-f format | -l | -r | -s | -x] [-t timefmt] [file ...]
+
+
+-------/ Date Calculator \-------
+
+Please choose one of the options below ~
+
+(1) Subtract two specified dates
+(2) Specified date minus today's date
+(3) Saved date minus specified date
+(4) Saved date minus today's date
+(5) Quit
+
+Note: Saved dates are...
+- Assignments
+- Quizes
+- Finals
+
+Select an option from the saved dates...
+
+
+* Labs
+
+  (L1) Lab 1: 09/28/2022
+  (L2) Lab 2: 10/26/2022
+  (L3) Lab 3: 11/23/2022
+  (L4) Lab 4: 12/7/2022
+
+* Quizes
+
+  (Q1) Quiz 1: 09/14/2022
+  (Q2) Quiz 2: 09/28/2022
+  (Q3) Quiz 3: 10/26/2022
+  (Q4) Quiz 4: 11/16/2022
+  (Q5) Quiz 5: 12/07/2022
+
+~ (F) Final: 12/19/2022
+
+
+~~~~~~~/ There is 54 day(s) left... \~~~~~~~
+
+-------/ Date Calculator \-------
+
+Please choose one of the options below ~
+
+(1) Subtract two specified dates
+(2) Specified date minus today's date
+(3) Saved date minus specified date
+(4) Saved date minus today's date
+(5) Quit
+
+Note: Saved dates are...
+- Assignments
+- Quizes
+- Finals
+
+Goodbye!
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://Ramys-MacBook-Pro.local/Users/ramyghoneim/Desktop/3140L2]2;ramyghoneim@Ramys-MacBook-Pro]1;..esktop/3140L2]7;file://Ramys-MacBook-Pro.local/Users/ramyghoneim/Desktop/3140L2[0m[27m[24m[J[01;32m➜  [36m3140L2[00m [K[?1h=[?2004heexit[?1l>[?2004l
+]2;exit]1;exit
+Saving session...completed.
+
+Script done on Wed Oct 26 18:21:32 2022
